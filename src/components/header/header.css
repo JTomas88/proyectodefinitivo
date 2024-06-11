@@ -1,0 +1,30 @@
+.cabecera{
+    height: 90px;
+}
+
+.cajaTitulo{
+    justify-content: flex-end;
+    
+}
+
+.gifCabecera{
+    width: 70%;
+    height: 70%;
+}
+
+.home-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1{
+    font-family: "Jersey 10 Charted", sans-serif;
+    font-size: 65px;
+    align-items: center;
+    display: flex;
+    height: auto;    
+}
+
+.margen-titulo{
+    margin-left: 40%;
+}
